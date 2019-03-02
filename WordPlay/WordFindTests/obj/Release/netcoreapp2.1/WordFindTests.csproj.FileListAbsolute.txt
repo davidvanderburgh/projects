@@ -1,0 +1,17 @@
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordFindTests.deps.json
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordFindTests.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordFindTests.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordFindTests.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordFindTests.pdb
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordPlay.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\bin\Release\netcoreapp2.1\WordPlay.pdb
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.csproj.CopyComplete
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordFindTests\obj\Release\netcoreapp2.1\WordFindTests.pdb

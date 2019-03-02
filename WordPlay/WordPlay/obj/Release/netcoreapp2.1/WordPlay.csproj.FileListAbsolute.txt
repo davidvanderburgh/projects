@@ -1,0 +1,11 @@
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\bin\Release\netcoreapp2.1\WordPlay.deps.json
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\bin\Release\netcoreapp2.1\WordPlay.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\bin\Release\netcoreapp2.1\WordPlay.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\bin\Release\netcoreapp2.1\WordPlay.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\bin\Release\netcoreapp2.1\WordPlay.pdb
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\obj\Release\netcoreapp2.1\WordPlay.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\obj\Release\netcoreapp2.1\WordPlay.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\obj\Release\netcoreapp2.1\WordPlay.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\obj\Release\netcoreapp2.1\WordPlay.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\obj\Release\netcoreapp2.1\WordPlay.dll
+C:\Users\davidv\c-sharp-side-projects\WordPlay\WordPlay\obj\Release\netcoreapp2.1\WordPlay.pdb
