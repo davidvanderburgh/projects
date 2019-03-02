@@ -63,55 +63,55 @@ The solution I designed demonstrates use of recursion.
 
 Part 2: WordFind
 
-Using word entries from the user, create a word find grid with those words randomly placed.
+Using word entries from the user, create a word find grid with those words randomly placed.  
 The words can be placed in any cardinal orientation and at any coordinate, as long as the
-word does not fall off the grid.
-Words can share a space as long as the letters are identical.
+word does not fall off the grid.  
+Words can share a space as long as the letters are identical.  
 
-For example, the following words generate the grid below:
-
--------------------------------------- 
-write code enjoyably advance tech industry excite ideas creativity
-
-r r y e c n a v d a w
-y l c x e x r c s h o
-t z u c k t g f o y p
-i u q i e t i r w d q
-v v e t h c e t d c e
-i p t e i d e a s o h
-t q e n j o y a b l y
-a p a x f q k l r p g
-e y r t s u d n i h z
-r a h j r u m h a q t
-c b t t v k b s h x v
--------------------------------------- 
-
-The answers can be produced when the user is done:
+For example, the following words generate the grid below:  
 
 -------------------------------------- 
-r r y e c n a v d a w
-y l c x e x r c s h o
-t z u c k t g f o y p
-i u q i e t i r w d q
-v v e t h c e t d c e
-i p t e i d e a s o h
-t q e n j o y a b l y
-a p a x f q k l r p g
-e y r t s u d n i h z
-r a h j r u m h a q t
-c b t t v k b s h x v
+write code enjoyably advance tech industry excite ideas creativity  
 
+r r y e c n a v d a w  
+y l c x e x r c s h o  
+t z u c k t g f o y p  
+i u q i e t i r w d q  
+v v e t h c e t d c e  
+i p t e i d e a s o h  
+t q e n j o y a b l y  
+a p a x f q k l r p g  
+e y r t s u d n i h z  
+r a h j r u m h a q t  
+c b t t v k b s h x v  
+-------------------------------------- 
 
-      e c n a v d a
-y     x       c
-t     c         o
-i     i e t i r w d
-v     t h c e t     e
-i     e i d e a s
-t   e n j o y a b l y
-a
-e y r t s u d n i
-r
-c
+The answers can be produced when the user is done:  
 
 -------------------------------------- 
+r r y e c n a v d a w  
+y l c x e x r c s h o  
+t z u c k t g f o y p  
+i u q i e t i r w d q  
+v v e t h c e t d c e  
+i p t e i d e a s o h  
+t q e n j o y a b l y  
+a p a x f q k l r p g  
+e y r t s u d n i h z  
+r a h j r u m h a q t  
+c b t t v k b s h x v  
+
+
+      e c n a v d a  
+y     x       c  
+t     c         o  
+i     i e t i r w d  
+v     t h c e t     e  
+i     e i d e a s  
+t   e n j o y a b l y  
+a  
+e y r t s u d n i  
+r  
+c  
+
+--------------------------------------   
