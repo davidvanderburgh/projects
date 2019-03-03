@@ -1,0 +1,11 @@
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\bin\Debug\netcoreapp2.1\InverseCaptcha.deps.json
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\bin\Debug\netcoreapp2.1\InverseCaptcha.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\bin\Debug\netcoreapp2.1\InverseCaptcha.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\bin\Debug\netcoreapp2.1\InverseCaptcha.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\bin\Debug\netcoreapp2.1\InverseCaptcha.pdb
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\obj\Debug\netcoreapp2.1\InverseCaptcha.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\obj\Debug\netcoreapp2.1\InverseCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\obj\Debug\netcoreapp2.1\InverseCaptcha.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\obj\Debug\netcoreapp2.1\InverseCaptcha.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\obj\Debug\netcoreapp2.1\InverseCaptcha.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptcha\obj\Debug\netcoreapp2.1\InverseCaptcha.pdb
