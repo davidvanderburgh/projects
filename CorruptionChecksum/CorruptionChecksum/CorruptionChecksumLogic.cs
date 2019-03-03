@@ -2,26 +2,26 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CorruptionChecksum
+namespace CorruptionChecksum.Logic
 {
-    public static class CorruptionChecksumLogic
+    public class CorruptionChecksumLogic
     {
-        public static int GetChecksum(int[][] worksheet)
+        public int GetChecksum(List<int[]> worksheet)
         {
             int checksum = 0;
-            for (int i = 0; i < worksheet.Length; i++)
+            for (int i = 0; i < worksheet.Count; i++)
             {
-                checksum += GetRowMinMaxDifference(worksheet[i]);
+                checksum += GetMinMaxDifference(worksheet[i]);
             }
             return checksum;
         }
 
-        public static int GetRowMinMaxDifference(int[] inputArray)
+        private int GetMinMaxDifference(int[] inputArray)
         {
             return GetMaxInArray(inputArray) - GetMinInArray(inputArray);
         }
 
-        public static int GetMaxInArray(int[] inputArray)
+        private int GetMaxInArray(int[] inputArray)
         {
             int max = inputArray[0];
             for (int i = 0; i < inputArray.Length; i++)
@@ -34,7 +34,7 @@ namespace CorruptionChecksum
             return max;
         }
 
-        public static int GetMinInArray(int[] inputArray)
+        private int GetMinInArray(int[] inputArray)
         {
             int min = inputArray[0];
             for (int i = 0; i < inputArray.Length; i++)
@@ -47,7 +47,7 @@ namespace CorruptionChecksum
             return min;
         }
 
-        public static string GetJaggedArrayString(int[][] jaggedArray)
+        private string GetJaggedArrayString(int[][] jaggedArray)
         {
             StringBuilder result = new StringBuilder();
             for (int i = 0; i < jaggedArray.Length; i++)

@@ -687,9 +687,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davidv\\c-sharp-side-projects\\CorruptionChecksum\\CorruptionChecksum\\CorruptionChecksum.csproj",
-      "projectName": "CorruptionChecksum",
-      "projectPath": "C:\\Users\\davidv\\c-sharp-side-projects\\CorruptionChecksum\\CorruptionChecksum\\CorruptionChecksum.csproj",
+      "projectUniqueName": "C:\\Users\\davidv\\c-sharp-side-projects\\CorruptionChecksum\\CorruptionChecksum\\CorruptionChecksums.csproj",
+      "projectName": "CorruptionChecksums",
+      "projectPath": "C:\\Users\\davidv\\c-sharp-side-projects\\CorruptionChecksum\\CorruptionChecksum\\CorruptionChecksums.csproj",
       "packagesPath": "C:\\Users\\davidv\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\davidv\\c-sharp-side-projects\\CorruptionChecksum\\CorruptionChecksum\\obj\\",
       "projectStyle": "PackageReference",

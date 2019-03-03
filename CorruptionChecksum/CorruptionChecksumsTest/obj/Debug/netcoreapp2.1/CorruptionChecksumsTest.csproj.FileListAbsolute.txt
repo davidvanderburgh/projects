@@ -1,0 +1,17 @@
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksumsTest.deps.json
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksumsTest.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksumsTest.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksumsTest.dll
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksumsTest.pdb
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksums.dll
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\bin\Debug\netcoreapp2.1\CorruptionChecksums.pdb
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.csproj.CopyComplete
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.dll
+C:\Users\davidv\c-sharp-side-projects\CorruptionChecksum\CorruptionChecksumsTest\obj\Debug\netcoreapp2.1\CorruptionChecksumsTest.pdb
