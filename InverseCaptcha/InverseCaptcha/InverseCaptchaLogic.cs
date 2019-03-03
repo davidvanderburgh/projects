@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InverseCaptcha
 {
-    public static class InverseCaptcha
+    public static class InverseCaptchaLogic
     {
         public static bool EveryCharacterIsANumber(string input)
         {
@@ -37,7 +37,6 @@ namespace InverseCaptcha
                     totalSum += sequenceArray[i + 1];
                 }
             }
-
             return totalSum;
         }
 

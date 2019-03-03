@@ -1,0 +1,17 @@
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptchaTest.deps.json
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptchaTest.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptchaTest.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptchaTest.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptchaTest.pdb
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptcha.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\bin\Debug\netcoreapp2.1\InverseCaptcha.pdb
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.csproj.CopyComplete
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.dll
+C:\Users\davidv\c-sharp-side-projects\InverseCaptcha\InverseCaptchaTest\obj\Debug\netcoreapp2.1\InverseCaptchaTest.pdb

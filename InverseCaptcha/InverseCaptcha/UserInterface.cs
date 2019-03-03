@@ -14,13 +14,13 @@ namespace InverseCaptcha
             {
                 Console.WriteLine("Enter your number to check or type \"q\" to quit:");
                 string userEntryString = Console.ReadLine();
-                if (InverseCaptcha.EveryCharacterIsANumber(userEntryString))
+                if (InverseCaptchaLogic.EveryCharacterIsANumber(userEntryString))
                 {
-                    Console.WriteLine("Your sum is: " + InverseCaptcha.SequenceSum(userEntryString));
+                    Console.WriteLine("Your sum is: " + InverseCaptchaLogic.SequenceSum(userEntryString));
                 }
                 else if (userEntryString == "q")
                 {
-                    break;
+                    done = true;
                 }
                 else
                 {
