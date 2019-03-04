@@ -18,12 +18,17 @@ namespace CorruptionChecksum
             while (!done)
             {
                 List<int[]> checksumNumberInput = new List<int[]>();
-                Console.WriteLine("Enter space separated numbers (an array). Press ENTER to add arrays. Type a letter to end.");
+                Console.WriteLine("Enter space separated numbers (an array). Press ENTER to add a new row. Type a letter or empty row to end.");
                 while(!done)
                 {
                     string userInput = Console.ReadLine();
 
-                    if (userInput != "" && StringContainsOnlyNumbersAndSpaces(userInput))
+                    if (userInput == "" || !StringContainsOnlyNumbersAndSpaces(userInput))
+                    {
+                        Console.WriteLine("Done!");
+                        done = true;
+                    }
+                    else
                     {
                         List<int> inputNumbers = new List<int>();
                         foreach(string s in userInput.Split(' '))
@@ -31,11 +36,6 @@ namespace CorruptionChecksum
                             inputNumbers.Add(Convert.ToInt32(s));
                         }
                         checksumNumberInput.Add(inputNumbers.ToArray());
-                    }
-                    else
-                    {
-                        Console.WriteLine("Done!");
-                        done = true;
                     }
                 }
                 Console.WriteLine("The computed checksum is:");

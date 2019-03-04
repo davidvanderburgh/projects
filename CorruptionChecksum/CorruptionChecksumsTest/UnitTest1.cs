@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace CorruptionChecksum.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class CorruptionCheckSumTests
     {
         CorruptionChecksumLogic corruptionChecksumLogic;
 
@@ -41,12 +41,6 @@ namespace CorruptionChecksum.Test
             Assert.AreEqual(18, corruptionChecksumLogic.GetChecksum(testArray1));
             Assert.AreEqual(12, corruptionChecksumLogic.GetChecksum(testArray2));
             Assert.AreEqual(21, corruptionChecksumLogic.GetChecksum(testArray3));
-        }
-
-        [TestMethod]
-        public void GetMinMaxDifferenceTest()
-        {
-            
         }
     }
 }
