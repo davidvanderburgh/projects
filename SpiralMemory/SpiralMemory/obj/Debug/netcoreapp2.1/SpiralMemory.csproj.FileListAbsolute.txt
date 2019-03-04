@@ -1,0 +1,11 @@
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\bin\Debug\netcoreapp2.1\SpiralMemory.deps.json
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\bin\Debug\netcoreapp2.1\SpiralMemory.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\bin\Debug\netcoreapp2.1\SpiralMemory.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\bin\Debug\netcoreapp2.1\SpiralMemory.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\bin\Debug\netcoreapp2.1\SpiralMemory.pdb
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\obj\Debug\netcoreapp2.1\SpiralMemory.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\obj\Debug\netcoreapp2.1\SpiralMemory.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\obj\Debug\netcoreapp2.1\SpiralMemory.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\obj\Debug\netcoreapp2.1\SpiralMemory.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\obj\Debug\netcoreapp2.1\SpiralMemory.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemory\obj\Debug\netcoreapp2.1\SpiralMemory.pdb
