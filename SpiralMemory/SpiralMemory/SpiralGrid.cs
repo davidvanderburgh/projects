@@ -10,10 +10,12 @@ namespace SpiralMemory
         public int MaxNumber { get; private set; }
         public int GridSize { get; private set; }
 
-        private int X { get; set; }
-        private int Y { get; set; }
+        private int Column { get; set; }
+        private int Row { get; set; }
 
         private int CellSize { get; set; }
+
+        public List<string> Animation { get; private set; } = new List<string>();
 
         private enum Direction { Up, Down, Left, Right };
         private Direction CurrentDirection { get; set; }
@@ -34,12 +36,12 @@ namespace SpiralMemory
             NumberGrid = new int?[GridSize, GridSize];
 
             //Start at the center of the grid
-            X = GridSize / 2;
-            Y = GridSize / 2;
+            Column = GridSize / 2;
+            Row = GridSize / 2;
 
             //place a 1 at the center
             int number = 1;
-            NumberGrid[Y, X] = number;
+            NumberGrid[Row, Column] = number;
             number++;
 
             while (number <= MaxNumber)
@@ -137,15 +139,16 @@ namespace SpiralMemory
                         break;
                 }
             }
-            NumberGrid[Y, X] = number;
-            Console.WriteLine(this.ToString());
+            NumberGrid[Row, Column] = number;
+
+            Animation.Add(this.ToString());
         }
 
         private bool ExistsNumberAbove()
         {
             try
             {
-                return (NumberGrid[Y - 1, X] != null);
+                return (NumberGrid[Row - 1, Column] != null);
             }
             catch (IndexOutOfRangeException e)
             {
@@ -157,7 +160,7 @@ namespace SpiralMemory
         {
             try
             {
-                return (NumberGrid[Y, X + 1] != null);
+                return (NumberGrid[Row, Column + 1] != null);
             }
             catch (IndexOutOfRangeException e)
             {
@@ -169,7 +172,7 @@ namespace SpiralMemory
         {
             try
             {
-                return (NumberGrid[Y + 1, X] != null);
+                return (NumberGrid[Row + 1, Column] != null);
             }
             catch (IndexOutOfRangeException e)
             {
@@ -181,7 +184,7 @@ namespace SpiralMemory
         {
             try
             {
-                return (NumberGrid[Y, X - 1] != null);
+                return (NumberGrid[Row, Column - 1] != null);
             }
             catch (IndexOutOfRangeException e)
             {
@@ -192,25 +195,25 @@ namespace SpiralMemory
         private void MoveRight()
         {
             CurrentDirection = Direction.Right;
-            X++;
+            Column++;
         }
 
         private void MoveUp()
         {
             CurrentDirection = Direction.Up;
-            Y--;
+            Row--;
         }
 
         private void MoveLeft()
         {
             CurrentDirection = Direction.Left;
-            X--;
+            Column--;
         }
 
         private void MoveDown()
         {
             CurrentDirection = Direction.Down;
-            Y++;
+            Row++;
         }
 
         public override string ToString()
@@ -222,11 +225,11 @@ namespace SpiralMemory
                 {
                     if (NumberGrid[i, j] == null)
                     {
-                        sb.Append(PadBoth(" ", CellSize));
+                        sb.Append(CenterString(" ", CellSize));
                     }
                     else
                     {
-                        sb.Append(PadBoth(NumberGrid[i, j].ToString(), CellSize));
+                        sb.Append(CenterString(NumberGrid[i, j].ToString(), CellSize));
                     }
                 }
                 sb.Append("\n");
@@ -240,11 +243,16 @@ namespace SpiralMemory
             return (MaxNumber.ToString().Length + 2);
         }
 
-        public string PadBoth(string source, int lengthOfField)
+        public string CenterString(string stringToCenter, int lengthOfField)
         {
-            int spaces = lengthOfField - source.Length;
-            int padLeft = spaces / 2 + source.Length;
-            return source.PadLeft(padLeft).PadRight(lengthOfField);
+            //Find how many empty spaces are available in the field. Ex: "test" - "        " = 4
+            int spaces = lengthOfField - stringToCenter.Length;
+
+            //Take half of the available spaces add them to the length of the input string
+            int padLeft = (spaces / 2) + stringToCenter.Length;
+
+            //Pad left half of the spaces and pad right the other half
+            return stringToCenter.PadLeft(padLeft).PadRight(lengthOfField);
         }
     }
 }
