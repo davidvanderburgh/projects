@@ -40,7 +40,8 @@ namespace SpiralMemory
             // the highest value is 'upperRoot - 1'
             // the lowest value is the 'block' number
             // the highest value starts in the last element of the array
-            // the array is populated right to left decrementing to the lowest value, then incrementing to the highest until the array is filled
+            // the array is populated right to left decrementing to the lowest value, then incrementing 
+            //  to the highest until the array is filled
 
             int changeAmount = 1; //changes by 'changeAmount = -changeAmount' at max and min values
             int stepValue = (upperRoot - 1); //starts the steps at the highest amount

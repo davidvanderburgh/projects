@@ -9,7 +9,10 @@ namespace SpiralMemory
         public void Run()
         {
             SpiralMemoryLogic spiralMemoryLogic = new SpiralMemoryLogic();
-            Console.WriteLine(spiralMemoryLogic.GetNumberOfSteps(1024));
+            SpiralGrid spiralGrid = new SpiralGrid(115);
+            Console.WriteLine(spiralGrid);
+
+            Console.WriteLine(spiralMemoryLogic.GetNumberOfSteps(115));
             Console.ReadLine();
         }
     }
