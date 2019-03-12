@@ -86,7 +86,7 @@ r a h j r u m h a q t
 c b t t v k b s h x v  
 -------------------------------------- 
 
-The answers can be produced when the user is done:  
+The answers can be produced in an animation when the user is done:  
 
 -------------------------------------- 
 r r y e c n a v d a w  
