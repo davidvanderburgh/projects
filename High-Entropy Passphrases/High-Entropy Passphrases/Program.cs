@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HighEntropyPassphrases
+namespace High_Entropy_Passphrases
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
-            Console.ReadLine();
+            UserInterface userInterface = new UserInterface();
+            userInterface.Run();
         }
     }
 }

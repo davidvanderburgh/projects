@@ -1,0 +1,17 @@
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\HighEntropyPassphraseTests.deps.json
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\HighEntropyPassphraseTests.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\HighEntropyPassphraseTests.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\HighEntropyPassphraseTests.dll
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\HighEntropyPassphraseTests.pdb
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\High-Entropy Passphrases.dll
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\bin\Debug\netcoreapp2.1\High-Entropy Passphrases.pdb
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.csproj.CopyComplete
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.dll
+C:\Users\davidv\c-sharp-side-projects\High-Entropy Passphrases\HighEntropyPassphraseTests\obj\Debug\netcoreapp2.1\HighEntropyPassphraseTests.pdb
