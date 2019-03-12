@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMemory", "SpiralMemory\SpiralMemory.csproj", "{E950E7CD-32D1-4AD8-A582-A27CCEEBAEEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMemoryTests", "SpiralMemoryTests\SpiralMemoryTests.csproj", "{FB2A75BD-F06E-4542-9AC2-C7CEF65DA75E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralGridTests", "SpiralMemoryTests\SpiralGridTests.csproj", "{FB2A75BD-F06E-4542-9AC2-C7CEF65DA75E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5748,9 +5748,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davidv\\c-sharp-side-projects\\SpiralMemory\\SpiralMemoryTests\\SpiralMemoryTests.csproj",
-      "projectName": "SpiralMemoryTests",
-      "projectPath": "C:\\Users\\davidv\\c-sharp-side-projects\\SpiralMemory\\SpiralMemoryTests\\SpiralMemoryTests.csproj",
+      "projectUniqueName": "C:\\Users\\davidv\\c-sharp-side-projects\\SpiralMemory\\SpiralMemoryTests\\SpiralGridTests.csproj",
+      "projectName": "SpiralGridTests",
+      "projectPath": "C:\\Users\\davidv\\c-sharp-side-projects\\SpiralMemory\\SpiralMemoryTests\\SpiralGridTests.csproj",
       "packagesPath": "C:\\Users\\davidv\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\davidv\\c-sharp-side-projects\\SpiralMemory\\SpiralMemoryTests\\obj\\",
       "projectStyle": "PackageReference",

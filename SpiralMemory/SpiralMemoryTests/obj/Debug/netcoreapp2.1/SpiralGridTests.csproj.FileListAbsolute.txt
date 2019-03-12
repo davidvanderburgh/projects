@@ -1,0 +1,17 @@
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralGridTests.deps.json
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralGridTests.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralGridTests.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralGridTests.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralGridTests.pdb
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralMemory.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\bin\Debug\netcoreapp2.1\SpiralMemory.pdb
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.csproj.CopyComplete
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.dll
+C:\Users\davidv\c-sharp-side-projects\SpiralMemory\SpiralMemoryTests\obj\Debug\netcoreapp2.1\SpiralGridTests.pdb

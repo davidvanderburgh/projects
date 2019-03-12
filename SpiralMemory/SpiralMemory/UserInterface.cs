@@ -9,18 +9,16 @@ namespace SpiralMemory
     {
         public void Run()
         {
-            SpiralMemoryLogic spiralMemoryLogic = new SpiralMemoryLogic();
-            SpiralGrid spiralGrid = new SpiralGrid(400);
+            SpiralGrid spiralGrid = new SpiralGrid(40);
             
             foreach (string s in spiralGrid.Animation)
             {
                 Console.Clear();
                 Console.WriteLine(s);
-                Thread.Sleep(10);
+                Thread.Sleep(20);
             }
 
-
-            Console.WriteLine($"It takes {spiralMemoryLogic.GetNumberOfSteps(spiralGrid.MaxNumber)} steps to get from {spiralGrid.MaxNumber} to 1");
+            Console.WriteLine($"It takes {spiralGrid.GetNumberOfStepsToCenter(spiralGrid.MaxNumber)} steps to get from {spiralGrid.MaxNumber} to 1");
             Console.ReadLine();
         }
     }
