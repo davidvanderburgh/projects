@@ -17,14 +17,14 @@ namespace MazeTests
         [TestMethod]
         public void StepCounterTests()
         {
-            maze.StepArray = { 1, 0, 5, -2, -3 };
-            Assert.AreEqual(4, maze.StepCounter());
+            maze = new Maze(new int[] { 1, 0, 5, -2, -3 });
+            Assert.AreEqual(4, maze.StepCounter);
 
-            maze.StepArray = { 1, 0, 1, -2, -4 };
-            Assert.AreEqual(11, maze.StepCounter());
+            maze = new Maze(new int[] { 1, 0, 1, -2, -4 });
+            Assert.AreEqual(11, maze.StepCounter);
 
-            maze.StepArray = { 0, 3, 0, 1, -3 };
-            Assert.AreEqual(5, maze.StepCounter());
+            maze = new Maze(new int[] { 0, 3, 0, 1, -3 });
+            Assert.AreEqual(5, maze.StepCounter);
         }
     }
 }
