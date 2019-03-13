@@ -1,0 +1,17 @@
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\MazeTests.deps.json
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\MazeTests.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\MazeTests.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\MazeTests.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\MazeTests.pdb
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.pdb
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.csproj.CopyComplete
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\MazeTests\obj\Debug\netcoreapp2.1\MazeTests.pdb

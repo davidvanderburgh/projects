@@ -8,7 +8,10 @@ namespace A_Maze_of_Twisty_Trampolines
     {
         public void Run()
         {
+            Console.WriteLine("");
 
+
+            Console.Read();
         }
     }
 }

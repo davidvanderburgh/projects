@@ -1,0 +1,11 @@
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\obj\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.csprojAssemblyReference.cache
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\obj\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.csproj.CoreCompileInputs.cache
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\obj\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.AssemblyInfoInputs.cache
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\obj\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.AssemblyInfo.cs
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.deps.json
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.runtimeconfig.json
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.runtimeconfig.dev.json
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\bin\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.pdb
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\obj\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.dll
+C:\Users\davidv\c-sharp-side-projects\A Maze of Twisty Trampolines\A Maze of Twisty Trampolines\obj\Debug\netcoreapp2.1\A Maze of Twisty Trampolines.pdb
